@@ -1,0 +1,90 @@
+[
+  
+  
+  
+  {
+    "id":1,
+    "nome": "The Oregon Trail",
+    "ano": 1985,
+    "desenvolvedor": "MECC",
+    "genero": "Aventura",
+    "plataforma": "Apple II / MS-DOS / Commodore 64",
+    "imagem": "/img/oregontrail.jpg",
+    "link": "https://archive.org/details/the-oregon-trail",
+    "jogavel": true
+  },
+
+  {
+    "id":2,
+    "nome": "Prince of Persia",
+    "ano": 1989,
+    "desenvolvedor": "Brøderbund",
+    "genero": "Ação / Plataforma",
+    "plataforma": "Apple II / MS-DOS / Amiga",
+    "imagem": "img/prince-of-persia_1.gif",
+    "link": "https://archive.org/details/princeofpersia_202006",
+    "jogavel": true
+  },
+
+  {
+    "id":3,
+    "nome": "SimCity",
+    "ano": 1989,
+    "desenvolvedor": "Maxis",
+    "genero": "Simulação / Estratégia",
+    "plataforma": "Amiga / MS-DOS / Super Nintendo",
+    "imagem": "img/simcity.jpg",
+    "link": "https://archive.org/details/simcity",
+    "jogavel": true
+  },
+
+  {
+    "id":4,
+    "nome": "Wolfenstein 3D",
+    "ano": 1992,
+    "desenvolvedor": "id Software",
+    "genero": "Tiro em primeira pessoa",
+    "plataforma": "MS-DOS / Super Nintendo / Atari Jaguar",
+    "imagem": "img/Wolfenstein_3D.png",
+    "link": "https://archive.org/details/Wolfenstein3D",
+    "jogavel": true
+  },
+  {
+    "id":5,
+    "nome": "Alone in the Dark",
+    "ano": 1992,
+    "desenvolvedor": "Infogrames",
+    "genero": "Survival Horror",
+    "plataforma": "MS-DOS / 3DO / PlayStation",
+    "imagem": "img/Alone.jpg",
+    "link": "https://archive.org/details/aloneinthedark",
+    "jogavel": true
+  },
+
+{  "id":6,
+    "nome": "Full Throttle",
+    "ano": 1995,
+    "desenvolvedor": "LucasArts",
+    "genero": "Aventura / Point and Click",
+    "plataforma": "MS-DOS / Windows",
+    "imagem": "img/full-throttle.png",
+    "link": "https://archive.org/details/Full_Throttle_1995",
+    "jogavel": true
+  },
+
+  {
+    "id":7,
+    "nome": "Black & White",
+    "ano": 2001,
+    "desenvolvedor": "Lionhead Studios",
+    "genero": "Simulação / Estratégia",
+    "plataforma": "PC",
+    "imagem": "img/black_white.png",
+    "link": "https://archive.org/details/black-white-windows",
+    "jogavel": true
+}
+
+
+
+]
+
